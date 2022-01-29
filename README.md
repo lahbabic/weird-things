@@ -6,7 +6,7 @@ $>>> 64 - 32 + 16 - 8 + 4 -2 - 1
 
 41
 
-0 1 2 ^ 2 c'est 4 * 10 + 1 = 41
+1 2 4 c'est 4 * 10 + 1 = 41
 
 de plus les negatif + les positif ca fait 41.
 
