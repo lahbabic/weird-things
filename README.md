@@ -59,7 +59,7 @@ $>>> 4096 - 2048 + 1024 - 512 + 256 - 128 - 64 - 32 - 16 - 8 - 4 - 2 - 1
 1281 * "2"= 2561
 
 
-![alt text](https://github.com/lahbabic/weird-things/blob/main/EQUATION.png)
+![alt text](https://github.com/lahbabic/weird-things/blob/main/Equation.png)
 
 
 ![alt text](https://github.com/lahbabic/weird-things/blob/main/SERIE.png)
